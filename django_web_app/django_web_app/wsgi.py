@@ -14,8 +14,6 @@ try:
 except ImportError as e:
     pass
     
-
-
 import os
 
 from django.core.wsgi import get_wsgi_application
